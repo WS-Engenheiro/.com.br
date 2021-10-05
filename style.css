@@ -312,7 +312,7 @@ section .title::after{
 }
 .scroll-up-btn:hover{
     filter: brightness(90%);
-    background-color: #00ffff34;
+    background-color: #00ff1534;
     color: #00FFFF;
     border: #00FFFF solid 1px;
 }
@@ -322,7 +322,7 @@ section .title::after{
     display: flex;
     background: url("images/perfil.svg") no-repeat center;
     height: 100vh;
-    color: rgb(21, 95, 129);
+    color:#111;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
